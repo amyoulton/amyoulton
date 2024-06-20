@@ -6,4 +6,3 @@ I'm a web and iOS developer living in beautiful BC. Like most millennials, I fel
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=swift,js,html,css,ts,git,figma,graphql)](https://skillicons.dev)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amyoulton&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

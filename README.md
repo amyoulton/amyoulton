@@ -8,5 +8,7 @@ I'm a web and iOS developer living in beautiful BC. Like most millennials, I fel
 
 ### Blog Posts
 [Creating a Loading Spinner with CSS Keyframes](https://dev.to/amyoulton/create-a-loading-spinner-with-pure-css-144h)
+
 [Build A Trivia Game with JavaScript](https://dev.to/amyoulton/learn-js-asyncawait-fetch-requests-apis-by-building-a-trivia-game-2c3i)
+
 [Create a Hello World Node.js Server](https://dev.to/amyoulton/create-a-hello-word-server-with-node-js-54a6)
